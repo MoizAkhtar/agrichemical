@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d0c0a2e4.css",
+    "main.js": "/static/js/main.527afdaa.js",
+    "static/media/page-0.jpg": "/static/media/page-0.6a6d83542284451226bf.jpg",
+    "static/media/Screenshot 2023-05-15 at 4.39.41 PM.png": "/static/media/Screenshot 2023-05-15 at 4.39.41 PM.9b9908b99ef8d0b31cfb.png",
+    "static/media/page-1.jpg": "/static/media/page-1.c27297ef11aa2718677e.jpg",
+    "static/media/page-4.jpg": "/static/media/page-4.b07fa25b584edd195905.jpg",
+    "static/media/Pic-ok.png": "/static/media/Pic-ok.53bb5a7964638451cad1.png",
+    "static/media/contact_index.png": "/static/media/contact_index.dc739184cfd9a2c721d5.png",
+    "static/media/bag.jpg": "/static/media/bag.a5b1038450bb5a4bb3da.jpg",
+    "static/media/page-3.jpg": "/static/media/page-3.d77756e383bbe4f4eca6.jpg",
+    "static/media/569events516.jpg": "/static/media/569events516.f089198b9ddade71d3bb.jpg",
+    "static/media/605events543.jpg": "/static/media/605events543.10f7a7eec7fea72a6449.jpg",
+    "static/media/46product_462.jpg": "/static/media/46product_462.7c6e6c4295895b9ef779.jpg",
+    "static/media/890events747.jpg": "/static/media/890events747.bea1e3b1605525597772.jpg",
+    "static/media/748events70.jpg": "/static/media/748events70.1077b519d61a8bb62649.jpg",
+    "static/media/203events769.jpg": "/static/media/203events769.24211d7e858312f5a419.jpg",
+    "static/media/akbaiLogo.png": "/static/media/akbaiLogo.42230cd26c0c530dcaaf.png",
+    "static/media/international.png": "/static/media/international.968139c49a449c2f8ef0.png",
+    "static/media/bg.jpg": "/static/media/bg.2a0b3e461bfc909fb617.jpg",
+    "static/media/chemical.png": "/static/media/chemical.559d87c1354be6cc34a1.png",
+    "static/media/store.png": "/static/media/store.fb2e4bb9791d2e9487d2.png",
+    "static/media/school.png": "/static/media/school.b9bd6e1e18513964dad6.png",
+    "static/media/paper.png": "/static/media/paper.bdec9b8a900caac6359f.png",
+    "index.html": "/index.html",
+    "main.d0c0a2e4.css.map": "/static/css/main.d0c0a2e4.css.map",
+    "main.527afdaa.js.map": "/static/js/main.527afdaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0c0a2e4.css",
+    "static/js/main.527afdaa.js"
+  ]
+}
